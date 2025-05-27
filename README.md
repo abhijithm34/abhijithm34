@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abhijith-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijith-m-a3541b278)  
 [![GitHub](https://img.shields.io/badge/GitHub-abhijithm34-black?style=flat&logo=github&logoColor=white)](https://github.com/abhijithm34)  
-[![Email](https://img.shields.io/badge/Email-abhi%40gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:abhijithmeleppat@gmail.com)
+[![Email](https://img.shields.io/badge/Email-abhijithmeleppat%40gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:abhijithmeleppat@gmail.com)
 
 ---
 
@@ -85,6 +85,3 @@ Web platform to manage donations and volunteers during crises, featuring locatio
 
 ---
 
-![Abhijith's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijithm34&show_icons=true&theme=radical)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=abhijithm34)
