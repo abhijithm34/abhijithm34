@@ -1,43 +1,90 @@
-# Hi, I'm Abhijith M 👋
+# Hi there, I'm Abhijith 👋
 
-I'm a second-year Computer Science and Engineering student at College of Engineering Guindy, Anna University.  
-Passionate about AI, computer vision, and building real-time data-driven systems.
-
----
-
-### 🔭 Current Focus
-- Working on AI and computer vision projects involving real-time object detection and traffic data analysis.
-- Exploring scalable full-stack web apps using MERN stack.
-
-### 💻 Tech Stack & Skills
-- **Languages:** C, C++, Java, Python, JavaScript, TypeScript, PHP, SQL
-- **Frameworks/Libraries:** OpenCV, TensorFlow (basics), React, Angular, Node.js, Express.js, Socket.IO, JUnit
-- **Databases:** MongoDB, MySQL, PostgreSQL
-- **Tools:** Git, GitHub, Postman, Firebase, Render, Netlify
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhijith-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijith-m-a3541b278)  
+[![GitHub](https://img.shields.io/badge/GitHub-abhijithm34-black?style=flat&logo=github&logoColor=white)](https://github.com/abhijithm34)  
+[![Email](https://img.shields.io/badge/Email-abhi%40gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:abhijithmeleppat@gmail.com)
 
 ---
 
-### 🚀 Featured Projects
+## 👨‍💻 About Me
 
-#### [Real-time Object Detection using OpenCV (Python)](https://github.com/abhijithm34/object-detection-realtime-opencv)
-A webcam-based tool using Haar cascade classifiers to detect faces and objects in real-time, with bounding box annotations. Modular design for efficient processing of video frames.
-
-#### [Void Anonymous Chat (MERN)](https://github.com/abhijithm34/void-anonymous-chat)
-Anonymous chat application with real-time messaging using Socket.IO, nickname-based login, and file sharing. Built with React frontend, Node.js backend, and MongoDB.
-
-#### [Crypto Analyzer (Python)](https://github.com/abhijithm34/crypto-analyzer)
-Analyzes cryptocurrency price trends using pandas, matplotlib, and API-driven real-time data fetching. Features include moving averages, trend lines, and basic forecasting.
-
-#### [Disaster Relief Resource Management System (MERN)](https://github.com/abhijithm34/disaster-relief-resource-management-system)
-Platform to coordinate disaster aid with inventory tracking, volunteer task assignments, and live location mapping.
+I am a second-year B.E. Computer Science student passionate about AI, computer vision, and building data-driven projects. Experienced in real-time object detection, data analysis, and full-stack development. I enjoy solving real-world problems, especially in traffic mobility and resource management.
 
 ---
 
-### 📫 How to reach me
-- Email: abhijithmeleppat@gmail.com  
+## 🛠️ Skills
+
+### Languages  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+### Frontend  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) 
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+### Backend  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+### Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+### Tools & Libraries  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)  
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+
+### Version Control & Deployment  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
+![Render](https://img.shields.io/badge/Render-0E2433?style=flat&logo=render&logoColor=white)  
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+
+---
+
+## 📂 Projects
+
+### [Real-time Object Detection](https://github.com/abhijithm34/object-detection-realtime-opencv)  
+Real-time face and object detection using OpenCV and Haar cascade classifiers with Python. Features live video capture, bounding box annotation, and modular design.
+
+### [Crypto Analyzer](https://github.com/abhijithm34/crypto-analyzer)  
+Tool for analyzing cryptocurrency price trends using pandas and matplotlib. Implements moving averages, trend lines, and real-time API data fetching.
+
+### [Void Anonymous Chat](https://github.com/abhijithm34/void-anonymous-chat)  
+MERN stack real-time anonymous chat app with nickname login, file sharing, and Socket.IO based messaging.
+
+### [Disaster Relief Resource Management](https://github.com/abhijithm34/disaster-relief-resource-management-system)  
+Web platform to manage donations and volunteers during crises, featuring location tagging and inventory tracking.
+
+---
+
+## 📫 Contact Me
+
+- Email: [abhijithmeleppat@gmail.com](mailto:abhijithmeleppat@gmail.com)  
 - LinkedIn: [linkedin.com/in/abhijith-m-a3541b278](https://linkedin.com/in/abhijith-m-a3541b278)  
 - GitHub: [github.com/abhijithm34](https://github.com/abhijithm34)
 
 ---
 
+![Abhijith's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhijithm34&show_icons=true&theme=radical)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=abhijithm34)
