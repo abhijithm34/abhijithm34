@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I am a second-year B.E. Computer Science student passionate about AI, computer vision, and building data-driven projects. Experienced in real-time object detection, data analysis, and full-stack development. I enjoy solving real-world problems, especially in traffic mobility and resource management.
+I am a third-year B.E. Computer Science student passionate about AI, computer vision, and building data-driven projects. Experienced in real-time object detection, data analysis, and full-stack development. I enjoy solving real-world problems, especially in traffic mobility and resource management.
 
 ---
 
